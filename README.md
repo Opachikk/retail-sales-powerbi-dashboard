@@ -13,3 +13,4 @@ This Power BI dashboard analyzes retail sales performance across regions, produc
 - Data Visualization
 
 ## Dashboard Preview
+<img width="1310" height="738" alt="retail-dashboard-preview png" src="https://github.com/user-attachments/assets/81326f93-275a-46f4-839e-b87e51ca37c8" />

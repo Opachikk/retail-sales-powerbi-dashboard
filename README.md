@@ -9,7 +9,6 @@ This Power BI dashboard analyzes retail sales performance across regions, produc
 
 ## Tools Used
 - Power BI
-- Power Query
 - Data Visualization
 
 ## Dashboard Preview
